@@ -1,5 +1,7 @@
 # Enterprise-Level-Food-Ordering-Platform
 
+A full stack website for an app which lets users order delicacies from various cuisines
+
 #Features:
 User Auth, Registration, Profiles
 Search Sort Filter Pagination
